@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://emodwiewb.github.io/emodwiewb.emodwiewb
+Sitemap: https://emodwiewb.github.io/app/emodwiewb.emodwiewb
+Sitemap: https://emodwiewb.github.io/assets/emodwiewb.emodwiewb
+Sitemap: https://emodwiewb.github.io/css/emodwiewb.emodwiewb
+Sitemap: https://emodwiewb.github.io/includes/emodwiewb.emodwiewb
+Sitemap: https://emodwiewb.github.io/item/emodwiewb.emodwiewb
+Sitemap: https://emodwiewb.github.io/src/emodwiewb.emodwiewb
